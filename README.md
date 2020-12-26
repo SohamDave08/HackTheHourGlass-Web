@@ -1,7 +1,5 @@
 # Hack The HourGlass - Web
 
-<p>This repository was made in use of a Hackathon</p>
-<br/><br/>
 <p>Team Name: Breaking Codes</p>
 <p>Track: Health Care</p>
 <p>
